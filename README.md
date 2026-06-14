@@ -59,7 +59,7 @@ Open http://localhost:3000
 | **Vaishnavi Sen** 
 | **Parth Singh** 
 
-**VITonomous** @ VIT Bhopal
+**VITonomous**
 
 ---
 
