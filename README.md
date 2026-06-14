@@ -32,12 +32,6 @@
 
 ---
 
-## 🚀 Live Demo
-
-👉 **[https://neurocharge-ai.vercel.app](https://neurocharge-ai.vercel.app)**
-
----
-
 ## 🛠️ Local Setup
 
 ```bash
@@ -58,12 +52,12 @@ Open http://localhost:3000
 
 ## 👥 Team
 
-| Name | Role |
-|------|------|
-| **Hanish Singla** | Team Lead - Full Stack |
-| **Shraddha Gupta** | ML Engineer |
-| **Vaishnavi Sen** | Cloud Architect |
-| **Parth Singh** | Backend Developer |
+| Name | 
+|------|
+| **Hanish Singla** 
+| **Shraddha Gupta** 
+| **Vaishnavi Sen** 
+| **Parth Singh** 
 
 **VITonomous** @ VIT Bhopal
 
